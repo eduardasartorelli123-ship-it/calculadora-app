@@ -1,0 +1,3 @@
+git config --global user.name eduardasartorelli
+git config --global user.email eduarda.sartorelli123@gmail.com
+
