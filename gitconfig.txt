@@ -4,3 +4,5 @@ git config --global user.email eduarda.sartorelli123@gmail.com
 -- Criar um projeto vazio
 npx create-expo-app@latest calculadora --template blank
 
+npm i
+
